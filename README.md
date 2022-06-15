@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nagahisa-takafumi/nagahisa-takafumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagahisa-takafumi)](https://github.com/nagahisa-takafumi/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagahisa-takafumi&show_icons=true&count_private=true&theme=dracula&bg_color=90,7F8DDD,2E3846&title_color=fff&text_color=fff)
+
+# 📈 GitHub Status
+![Takafumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagahisa-takafumi&show_icons=true&count_private=true&theme=dracula&bg_color=90,7F8DDD,2E3846&title_color=fff&text_color=fff)
