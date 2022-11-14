@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 | 3    | SQL        | 2 year     |
 | 4    | CSS        | 1 year     |
 | 5    | JavaScript | 1 year     |
-| 6    | Java       | 9 month    |
-| 7    | Python     | 3 month    |
-| 8    | Swift      | 3 month    |
+| 6    | Java       | 1 year     |
+| 7    | Python     | half year  |
+| 8    | Swift      | half year  |
 
 ## Frameworks
 * Bootstrap
