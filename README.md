@@ -21,16 +21,14 @@ Here are some ideas to get you started:
 
 ## Languages
 
-| Rank | Language   | Experience |
-| ---- | ---------- | ---------- |
-| 1    | PHP        | 2 year     |
-| 2    | HTML       | 2 year     |
-| 3    | SQL        | 2 year     |
-| 4    | CSS        | 1 year     |
-| 5    | JavaScript | 1 year     |
-| 6    | Java       | 1 year     |
-| 7    | Python     | half year  |
-| 8    | Swift      | half year  |
+* PHP
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Java
+* Python
+* Swift
 
 ## Frameworks
 * Bootstrap
