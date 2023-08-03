@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 * Java
 * Python
 * Swift
+* TypeScript
 
 ## Frameworks
 * Bootstrap
+* Next.js
+* React
 
 ## Web Servers
 * Apache
